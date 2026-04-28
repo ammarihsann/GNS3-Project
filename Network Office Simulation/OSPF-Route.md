@@ -1,4 +1,4 @@
-# 🧾 WRITE-UP LENGKAP
+# 🧾 WRITE-UP
 
 ## OSPF + DHCP MikroTik (2 Router, 2 LAN)
 
@@ -328,12 +328,3 @@ ip dhcp
 ✔ Ping antar LAN berhasil
 
 ---
-
-# 🔥 Next Level (kalau mau lanjut)
-
-Kalau kamu mau naik level:
-
-* OSPF Failover (2 jalur)
-* OSPF + NAT + Internet
-* DHCP Relay
-* OSPF Multi Area
