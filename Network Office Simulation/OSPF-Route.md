@@ -329,12 +329,8 @@ ip dhcp
 
 ---
 
----
-
 # Topology
 
 <p align="center">
   <img src="Network Office Simulation.png" alt="Scan In Logo" width="350"/>
 </p>
-
----
